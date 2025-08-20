@@ -58,7 +58,7 @@ function HomePage() {
 
           <Image
             position="absolute"
-            src="src/assets/headImg.png"
+            src="https://res.cloudinary.com/dlsv90kui/image/upload/v1755712252/headImg_kuv2uw.png"
             right={3}
             bottom={0}
           ></Image>

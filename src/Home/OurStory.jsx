@@ -13,7 +13,7 @@ import { IoCheckbox } from "react-icons/io5";
 
 const ourStoryContent = [
   {
-    img: "src/assets/img1.png",
+    img: "https://res.cloudinary.com/dlsv90kui/image/upload/v1755712329/img1_mb0him.png",
     title: "Healing Naturally",
     description:
       "We activate the body’s innate self-healing through herbs and natural formulations.",
@@ -24,7 +24,7 @@ const ourStoryContent = [
     },
   },
   {
-    img: "src/assets/img2.png",
+    img: "https://res.cloudinary.com/dlsv90kui/image/upload/v1755712329/img2_z4xsj2.png",
     title: "Innovation",
     description:
       "Ayurveda + Innovation – Bridging timeless wisdom with modern personalization and intelligent data. Our mission is to build upon Ayurvedic ancient principals",
@@ -35,7 +35,7 @@ const ourStoryContent = [
     },
   },
   {
-    img: "src/assets/img3.png",
+    img: "https://res.cloudinary.com/dlsv90kui/image/upload/v1755712329/img3_al1uat.png",
     title: "Scientific Approach",
     description:
       "Science-backed – Blending ancient practices with evidence, diagnostics, and clinical trials.",
@@ -46,7 +46,7 @@ const ourStoryContent = [
     },
   },
   {
-    img: "src/assets/img4.png",
+    img: "https://res.cloudinary.com/dlsv90kui/image/upload/v1755712329/img4_tf4hhi.png",
     title: "Ingredientz",
     description:
       "Pure & Ethical – Ingredients are ethically sourced, certified, and uncompromised in quality.",
@@ -57,7 +57,7 @@ const ourStoryContent = [
     },
   },
   {
-    img: "src/assets/img5.png",
+    img: "https://res.cloudinary.com/dlsv90kui/image/upload/v1755712329/img5_u4j081.png",
     title: "Certified Production Facilities",
     description:
       "Global Standards – Produced in world-class facilities with strict safety and compliance.",
@@ -68,7 +68,7 @@ const ourStoryContent = [
     },
   },
   {
-    img: "src/assets/img6.png",
+    img: "https://res.cloudinary.com/dlsv90kui/image/upload/v1755712329/img6_qa9zer.png",
     title: "Software & AI",
     description:"Global Standards – Produced in world-class facilities with strict safety and compliance.",
     points: {
